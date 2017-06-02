@@ -1,0 +1,17 @@
+/**
+ * style_tile - Style tile
+ * @version v1.0.0
+ * @link 
+ * @license MIT
+ */
+/* Utils */
+/* Font weight mixin */
+/*Font weight mixin end */
+/*Utils End */
+/* Base */
+body {
+  font: 100% Arial, Helvetica, sans-serif;
+  color: #333;
+  font-weight: 400; }
+
+/* Base End */
